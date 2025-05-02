@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m a Cybersecurity student at Texas A&M–San Antonio (Class of 2027), building hands-on experience through labs and virtual environments. I’ve worked with Linux-based tools and commands, explored penetration testing tools like Metasploit and Burp Suite, and created secure network simulations in Cisco Packet Tracer. I’ve also used Python to build simple security-focused applications and scripts.
+
+In High school, I was in a computer class where we were learning all the ins and outs of computer hardware, and even building them and fixing them. I actually was repairing some of the school’s computers! But most of the students were… slackers. Hardly any of them did anything in the class. But I didn’t slack off. I worked all day, every class, even skipping some classes to work on THAT ONE! I put ALL MY WORK into it, and was only one of THREE students IN THE ENTIRE SCHOOL to get nominated to try to take the CompTIA test… AND I WON! I actually PASSED the CompTIA A+ exam and now am a certified CompTIA A+ computer technician! WOO HOO!
+
+In college, I was the absolute pro at programming. Quickly picking up on languages I never knew before, like Powershell and Bash. I was able to create the same applications in python in Bash and Powershell, like file analyzing and CVE analyzing, and downloading websites, scanning websites and IPs. Also hashing algorithms. My favorite will always be python, but I CAN use others!
+
+The last thing I did was Databases MySQL. I created a database, organized it, created users and roles on the database, encrypted information on the database, hashed passwords, and did input validation to prevent SQL injection. It was quite a lot and the language was complicated, but I eventually got it!
+
+
 <!--
 **Samuel-Brzozowski/Samuel-Brzozowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

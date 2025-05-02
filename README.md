@@ -8,6 +8,12 @@ In college, I was the absolute pro at programming. Quickly picking up on languag
 
 The last thing I did was Databases MySQL. I created a database, organized it, created users and roles on the database, encrypted information on the database, hashed passwords, and did input validation to prevent SQL injection. It was quite a lot and the language was complicated, but I eventually got it!
 
+## 📫 Let's Connect
+
+- [GitHub](https://github.com/Samuel-Brzozowski)
+- [LinkedIn](#) *(https://www.linkedin.com/in/samuel-brzozowski-451b35275/)*
+- Email: *sambrz777@gmail.com*
+
 
 <!--
 **Samuel-Brzozowski/Samuel-Brzozowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
